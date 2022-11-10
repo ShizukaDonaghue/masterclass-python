@@ -1,8 +1,7 @@
-#User choice
-#User input
+#User input # Aron & Adan
 
-#Computer choice
+#Computer choice # Gabor Neil
 
-#Choices made as a list
+#Choices made as a list Huey & Shizu John
 
-#Compare choices
+#Compare choices William Keelan
